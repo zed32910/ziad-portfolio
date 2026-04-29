@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ziad-portfolio/static/css/main.d285e19f.css",
+    "main.js": "/ziad-portfolio/static/js/main.0c32a5f4.js",
+    "static/js/453.9b377469.chunk.js": "/ziad-portfolio/static/js/453.9b377469.chunk.js",
+    "static/media/heroimg2.jpg": "/ziad-portfolio/static/media/heroimg2.6863c7b64b654c5a10b8.jpg",
+    "index.html": "/ziad-portfolio/index.html",
+    "main.d285e19f.css.map": "/ziad-portfolio/static/css/main.d285e19f.css.map",
+    "main.0c32a5f4.js.map": "/ziad-portfolio/static/js/main.0c32a5f4.js.map",
+    "453.9b377469.chunk.js.map": "/ziad-portfolio/static/js/453.9b377469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d285e19f.css",
+    "static/js/main.0c32a5f4.js"
+  ]
+}
